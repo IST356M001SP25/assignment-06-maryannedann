@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Mary Daniel
+Sudent Email:  mcdaniel@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,8 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+
+In this assignment, I learned how to use sentiment analysis to figure out the tone of reviews and how to use entity recognition to pick out important terms, like dish names or locations. It was interesting to see how these tools can analyze a lot of data quickly. I did struggle a bit with understanding the confidence scores from sentiment analysis and making sure the entity recognition picked up only the right terms. Also, sometimes it was tricky to connect the sentiment to specific items in the reviews.Also, had ALOT of trouble with errors saying the file in the cache didnt exist
+
+Next, I want to get better at understanding how to use the confidence scores and improve how the entity recognition works. I also plan to try out different tools and practice with more examples to get better at dealing with tricky situations.
 
